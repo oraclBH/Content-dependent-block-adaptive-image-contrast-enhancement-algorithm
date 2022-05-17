@@ -10,4 +10,4 @@ the images' color will be biased.
 
 
 
-https://github.com/oraclBH/Content-dependent-block-adaptive-image-contrast-enhancement-algorithm/blob/main/Screenshots/result.png
+![image](https://github.com/oraclBH/Content-dependent-block-adaptive-image-contrast-enhancement-algorithm/blob/main/Screenshots/result.png)
